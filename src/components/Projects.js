@@ -10,7 +10,7 @@ export default function Projects() {
     {id: 2, name: 'Alcometer', description: 'An app that calculates blood alcohol levels using your details', technologies: 'React Native', url: 'https://github.com/JunnoTo/Alcometer'},
     {id: 3, name: 'Converter', description: 'Convert currencies by fetching their current rates', technologies: 'React Native', url: 'https://github.com/JunnoTo/Converter'},
     {id: 4, name: 'What2Watch', description: 'Browse movies and series saved to firestore. Get recommendations based on what you liked', technologies: 'React Native, Firebase', url: 'https://github.com/KVG21/What2Watch'},
-    {id: 5, name: 'FitTrack', description: 'Track workouts saved directly to device storage', technologies: 'React Native, AsyncStorage', url: 'https://github.com/JunnoTo/FitTrack'}
+    {id: 5, name: 'FitTrack', description: 'Track workouts saved directly to device storage', technologies: 'React Native', url: 'https://github.com/JunnoTo/FitTrack'}
   ];
 
   return (
@@ -42,6 +42,9 @@ export default function Projects() {
                 <h2>IT</h2>
                 <li>JavaScript</li>
                 <li>Kotlin</li>
+                <li>C</li>
+                <li>C++</li>
+                <li>Linux</li>
                 <li>HTML</li>
                 <li>CSS</li>
                 <li>React</li>
